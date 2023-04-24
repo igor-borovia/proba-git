@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ded6655-ebe5-4634-aff8-1be74d30b771" name="Changes" comment="leson3">
-      <change afterPath="$PROJECT_DIR$/dw5 block/blok.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dw5 block/style.css" afterDir="false" />
+    <list default="true" id="1ded6655-ebe5-4634-aff8-1be74d30b771" name="Changes" comment="добавив блоки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dw5 block/blok.html" beforeDir="false" afterPath="$PROJECT_DIR$/dw5 block/blok.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dw5 block/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dw5 block/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +61,7 @@
       <updated>1682265444117</updated>
       <workItem from="1682265445810" duration="1334000" />
       <workItem from="1682266887616" duration="1093000" />
-      <workItem from="1682359418840" duration="816000" />
+      <workItem from="1682359418840" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="init comit">
       <created>1682265855087</created>
@@ -90,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682268083753</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="добавив блоки">
+      <created>1682360394555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682360394555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="добавив блоки">
+      <created>1682360403443</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682360403443</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +127,7 @@
     <MESSAGE value="leson1.html" />
     <MESSAGE value="leson2.html&#10;end h1" />
     <MESSAGE value="leson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="leson3" />
+    <MESSAGE value="добавив блоки" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавив блоки" />
   </component>
 </project>

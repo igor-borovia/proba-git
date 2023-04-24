@@ -1,3 +1,23 @@
-.list-1 {
-
+.list-1 ul:nth-child(1) > li:nth-child(even) {
+color: violet;
 }
+
+.list-2 ul:nth-child(1) > li:nth-child(odd) {
+    font-size: 20px;}
+
+.list-3 ul > li:nth-child(2n+4):before {
+    content:"!";
+}
+
+.list-4 ul > li:nth-child(n+12) {
+   color: blueviolet;
+}
+.list-5 ul > li:first-letter {
+    color: red;
+    font-size: 30px;
+}
+
+
+
+
+
