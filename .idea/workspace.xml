@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ded6655-ebe5-4634-aff8-1be74d30b771" name="Changes" comment="leson2.html&#10;end h1">
+    <list default="true" id="1ded6655-ebe5-4634-aff8-1be74d30b771" name="Changes" comment="leson3">
+      <change afterPath="$PROJECT_DIR$/dw5 block/blok.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dw5 block/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -57,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1682265444117</updated>
       <workItem from="1682265445810" duration="1334000" />
-      <workItem from="1682266887616" duration="125000" />
+      <workItem from="1682266887616" duration="1093000" />
+      <workItem from="1682359418840" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="init comit">
       <created>1682265855087</created>
@@ -80,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682266237318</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leson3">
+      <created>1682268083753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682268083753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +111,7 @@
     <MESSAGE value="init comit" />
     <MESSAGE value="leson1.html" />
     <MESSAGE value="leson2.html&#10;end h1" />
-    <option name="LAST_COMMIT_MESSAGE" value="leson2.html&#10;end h1" />
+    <MESSAGE value="leson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="leson3" />
   </component>
 </project>
