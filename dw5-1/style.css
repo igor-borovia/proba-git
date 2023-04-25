@@ -1,0 +1,28 @@
+.box{
+    height:100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+background-color: darkgray;
+}
+
+.div-1{
+    width: 321px;
+    height: 491px;
+    top: 50px;
+    background-color:ivory;
+}
+
+.div-2{
+    width: 321px;
+    height: 491px;
+    top: 50px;
+    background-color: ivory;
+}
+.div-3{
+    width: 321px;
+    height: 491px;
+    top: 50px;
+    background-color:ivory;
+}
+

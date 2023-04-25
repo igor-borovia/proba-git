@@ -5,7 +5,7 @@ color: violet;
 .list-2 ul:nth-child(1) > li:nth-child(odd) {
     font-size: 20px;}
 
-.list-3 ul > li:nth-child(2n+4):before {
+.list-3 ul > li::after {
     content:"!";
 }
 
